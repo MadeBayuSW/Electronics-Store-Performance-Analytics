@@ -39,7 +39,7 @@ Analisis end-to-end kinerja penjualan dan perilaku pelanggan pada dataset e-comm
 ---
 
 ## 📸 Preview
-![Dashboard Preview](Dashboard/dashbor1.png)
+![Dashboard Preview](Dashboard/dashboar1.png)
 
 ## 🔗 Files
 - `Dashboard/electronics_analytics.pbix` – Power BI report  
