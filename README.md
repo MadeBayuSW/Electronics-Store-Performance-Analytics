@@ -46,4 +46,4 @@ Analisis end-to-end kinerja penjualan dan perilaku pelanggan pada dataset e-comm
 - Dataset: [Electronics Events (Kaggle)](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store/code)
 
 
-> Kontak/Link: [GitHub Profile](#) · [LinkedIn](#)
+> Kontak/Link: [GitHub Profile](https://github.com/MadeBayuSW/) · [LinkedIn](https://www.linkedin.com/in/imade-bayu-sw/)
