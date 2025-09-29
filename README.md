@@ -43,8 +43,7 @@ Analisis end-to-end kinerja penjualan dan perilaku pelanggan pada dataset e-comm
 ![Dashboard Preview](Dashboard/dashboar2.png)
 
 ## 🔗 Files
-- `Dashboard/electronics_analytics.pbix` – Power BI report  
-- `Dataset/ecommerce_eda.csv` – dataset terproses
+- Dataset: [Electronics Events (Kaggle)](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store/code)
 
 
 > Kontak/Link: [GitHub Profile](#) · [LinkedIn](#)
